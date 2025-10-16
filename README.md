@@ -80,10 +80,4 @@ Frontend: Vanilla JavaScript, HTML, CSS
 
 Machine Learning: CLIP, KNN algorithm
 
-Contribution
 
-Feel free to contribute! Fork the repo and submit pull requests.
-
-License
-
-This project is licensed under the MIT License.
